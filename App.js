@@ -36,7 +36,7 @@ export default function App() {
           })}
         />
       ))}
-      <Text>Salam Aien</Text>
+      <Text>Hi</Text>
       <StatusBar style="auto" />
     </View>
   );
